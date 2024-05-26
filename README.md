@@ -6,6 +6,8 @@ Collected hyperparams leading to performance within couple % of reported larger 
 
 See code comments for ref to sources.
 
-Up to (k=1 early stopping, epoch 0-indexed):
-CIFAR100 -      e5      train acc @1: 0.8904    val acc @1 0.835    test acc @1 0.8354
-ImagenetTiny -  e14     train acc @1: 0.8629    val acc @1 0.7914   test acc @1 0.797
+Up to (k=1 early stopping, epoch 0-indexed, acc @1):
+
+CIFAR100 -      e5      train: 0.8904    val: 0.835    test: 0.8354
+
+ImagenetTiny -  e14     train: 0.8629    val: 0.7914   test: 0.797
